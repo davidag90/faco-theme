@@ -1,0 +1,151 @@
+html,
+body {
+	font-family:
+		"Assistant",
+		system-ui,
+		-apple-system,
+		"Segoe UI",
+		Roboto,
+		"Helvetica Neue",
+		Arial,
+		"Noto Sans",
+		"Liberation Sans",
+		sans-serif,
+		"Apple Color Emoji",
+		"Segoe UI Emoji",
+		"Segoe UI Symbol",
+		"Noto Color Emoji"
+		!important;
+}
+
+.navbar-brand > img {
+	height: 60px;
+}
+
+h1,h2,h3,h4,h5,h6 {
+	font-weight: 700 !important;
+}
+
+#content {
+	padding-top: 86px;
+}
+
+.carousel-caption-background {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	z-index: 1;
+
+	background: rgb(0,0,0);
+	background: -moz-linear-gradient(0deg, rgba(0,0,0,1) 10%, rgba(255,255,255,0) 50%);
+	background: -webkit-linear-gradient(0deg, rgba(0,0,0,1) 10%, rgba(255,255,255,0) 50%);
+	background: linear-gradient(0deg, rgba(0,0,0,1) 10%, rgba(255,255,255,0) 50%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#000000",endColorstr="#ffffff",GradientType=1);
+}
+
+.carousel-caption {
+	z-index: 2;
+}
+
+.carousel-inner .carousel-caption > h2 {
+	margin-bottom: 0;
+}
+
+.carousel-inner .carousel-caption > h2 > a:link,
+.carousel-inner .carousel-caption > h2 > a:visited {
+	text-decoration: none;
+	color: #F0F0F0;
+}
+
+.carousel-inner .carousel-caption > h2 > a:hover,
+.carousel-inner .carousel-caption > h2 > a:active {
+	text-decoration: underline;
+	color: #FFF;
+}
+
+.widget.card-body {
+	padding-top: 0!important;
+}
+
+#colegios-federados > .width-100 {
+	background-color: #132f46;
+}
+
+.colegio-wrapper {
+	max-width: 160px;
+}
+
+.colegio-wrapper > .colegio {
+	text-decoration: none;
+	text-align: center;
+}
+
+.colegio-wrapper > .colegio > .colegio-logo,
+.colegio-wrapper > .colegio > .colegio-nombre {
+	display: block;
+}
+
+.colegio-wrapper > .colegio > .colegio-logo {
+	width: 90px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.colegio-wrapper > .colegio > .colegio-nombre {
+	text-align: center;
+	padding-top: 1rem;
+	padding-bottom: 1rem;
+}
+
+.wp-post-image {
+	width: auto!important;
+}
+
+.post-list-item:last-child {
+    border-bottom: 0!important;
+}
+
+.post-list-item > .blog-post-title {
+	margin-bottom: .5rem;
+}
+
+.post-list-item > header > .blog-post-title > a:link,
+.post-list-item > header > .blog-post-title > a:visited {
+	color: #2b596e;
+	text-decoration: none;
+}
+
+.post-list-item > header > .blog-post-title > a:hover,
+.post-list-item > header > .blog-post-title > a:active {
+	color: #4891b3;
+}
+
+.bootscore-footer {
+	background-color: #27586e;
+}
+
+.isotipo-footer {
+	width: 100px;
+	height: auto;
+}
+
+label.subscription-form-control > a:link, label.subscription-form-control > a:visited {
+    color: white!important;
+    font-size: 0.8rem !important;
+    padding-top: 0.5rem;
+    display: block;
+}
+
+label.subscription-form-control > input.subscription-form-text {
+	margin: 10px 0 0 0!important;
+}
+
+.subscription-form-control > img {
+    margin-top: 10px;
+}
+
+.subscription-form-text[name="captchaCode"] {
+	font-size: 10px!important;
+}
