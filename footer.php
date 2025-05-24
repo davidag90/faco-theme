@@ -27,8 +27,8 @@
                     <h4>Autoridades</h4>
                     <ul>
                         <li><strong>Presidente</strong> Od. Raúl E. Allín <em>(Rosario)</em></li>
-                        <li><strong>Vice-Presidente</strong> Od. Orlando Busconi <em>(Misiones)</em></li>
-                        <li><strong>Secretario</strong> Od. Hugo A. Mattioli <em>(Rosario)</em></li>
+                        <li><strong>Vice-Presidente</strong> Od. Alicia Solís <em>(Chaco)</em></li>
+                        <li><strong>Secretario</strong> Od. Marcelo Raed <em>(Santiago del Estero)</em></li>
 			<li><strong>Tesorero</strong> Marcelo Daniel Lobato <em>(La Rioja)</em></li>
                     </ul>
                 </div>
