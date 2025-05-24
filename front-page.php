@@ -107,11 +107,6 @@
 						</a>
 					</div>
 					<div class="colegio-wrapper">
-						<a href="https://colodmis.org/wp/" class="colegio link-dark">
-						<img src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/img/colegios/misiones.png" alt="" class="colegio-logo"><span class="colegio-nombre">Colegio de Odontólogos de Misiones</span>
-						</a>
-					</div>
-					<div class="colegio-wrapper">
 						<a href="https://santacruzodontologos.com/" class="colegio link-dark">
 						<img src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/img/colegios/santacruz.png" alt="" class="colegio-logo"><span class="colegio-nombre">Colegio de Odontólogos de Santa Cruz</span>
 						</a>
